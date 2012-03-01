@@ -1,4 +1,4 @@
-package com.aimluck.out;
+package com.aim.test2012;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;

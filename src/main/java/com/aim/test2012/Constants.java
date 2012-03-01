@@ -1,4 +1,4 @@
-package com.aimluck.test2012;
+package com.aim.test2012;
 
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;

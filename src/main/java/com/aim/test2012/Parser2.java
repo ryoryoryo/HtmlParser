@@ -1,4 +1,4 @@
-package com.aimluck.out;
+package com.aim.test2012;
 
 import java.io.InputStream;
 import java.net.URL;
@@ -14,7 +14,7 @@ import org.xml.sax.InputSource;
 public class Parser2 {
     public static void main(String args[]) {
         try {
-                URL url = new URL("C:\\maventest\\excelfunctions.html");
+                URL url = new URL("http://ww8.tiki.ne.jp/~nikoniko/kansuitiran.htm");
                 URLConnection connection = url.openConnection();
                 // BufferedReader bs = new BufferedReader(new InputStreamReader(
                 // connection.getInputStream()));
